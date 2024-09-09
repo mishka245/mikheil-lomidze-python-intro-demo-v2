@@ -2,6 +2,6 @@ print("hello world")
 
 print("hello world")
 
-print("change from exammple branch")
+print("ცვლილება სხვა განშტოებიდან  ლალალა ")
 
 
